@@ -1,4 +1,4 @@
-# 🧠 Handwritten Digit Classification using PyTorch (MNIST)
+#  Handwritten Digit Classification using PyTorch (MNIST)
 
 This project implements a simple **Neural Network (MLP)** using **PyTorch** to classify handwritten digits (0–9) from the **MNIST dataset**.  
 It demonstrates the complete machine learning workflow: data loading, model building, training, evaluation, saving the model, and predicting a single image.
@@ -23,11 +23,14 @@ It demonstrates the complete machine learning workflow: data loading, model buil
 
 
 ## 📂 Project Structure
+```
 
 ├── data/ # MNIST dataset (auto-downloaded)
 ├── mnist_model.pth # Saved trained model
 ├── mnist-project.ipynb / notebook # Training & evaluation code
 └── README.md
+
+```
 
 
 
